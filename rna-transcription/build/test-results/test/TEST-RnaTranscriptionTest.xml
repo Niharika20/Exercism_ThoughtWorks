@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RnaTranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-07-02T17:00:31" hostname="DESKTOP-1RDJG8R" time="0.002">
+<testsuite name="RnaTranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-07-05T13:31:00" hostname="DESKTOP-1RDJG8R" time="0.002">
   <properties/>
   <testcase name="testRnaTranscriptionOfThymineIsAdenine" classname="RnaTranscriptionTest" time="0.001"/>
   <testcase name="testRnaTranscription" classname="RnaTranscriptionTest" time="0.0"/>
