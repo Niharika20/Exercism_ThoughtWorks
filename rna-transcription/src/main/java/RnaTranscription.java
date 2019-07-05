@@ -2,7 +2,7 @@ class RnaTranscription {
 
     String transcribe(String dnaStrand) {
         
-		private String rnaStrand="";
+		String rnaStrand="";
 		
 		for(int i=0; i<dnaStrand.length(); i++)
 		{
